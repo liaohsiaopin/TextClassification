@@ -1,5 +1,5 @@
 [[source]]
-url = "https://pypi.python.org/simple"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
 verify_ssl = true
 name = "pypi"
 
@@ -14,3 +14,11 @@ flask-sqlalchemy = "*"
 python-dotenv = "*"
 flask-wtf = "*"
 flask = "*"
+scrapy = "*"
+lwxt = "*"
+xlwt = "*"
+openpyxl = "*"
+request = "*"
+requests = "*"
+bs4 = "*"
+tensorflow = "*"
